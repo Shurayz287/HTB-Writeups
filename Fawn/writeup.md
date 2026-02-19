@@ -36,7 +36,7 @@ Giờ chúng ta đã kết nối được với server, nếu chưa quá rõ v�
 
 Now we play with the FTP server!!  Bạn có thể dùng `get` command và kéo file từ server về local, từ đó lấy flag, nhưng như vậy thì quá buồn chán, chúng ta thử lòng vòng quanh server xem sao!!! 
 
-
+### Extend
 
 Lòng vòng trên server 1 hồi, tôi không tìm được gì quá hay ho!!! Tôi quyết định đổi hướng!!!
 
