@@ -1,2 +1,2 @@
 # HTB-Writeups
-Hack The Box Machine writeup and simple labs
+Hack The Box Machines writeup and simple labs
