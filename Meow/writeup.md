@@ -2,7 +2,7 @@
 
 ### The Scenario
 **Tên nhiệm vụ:** Kiểm tra an ninh thiết bị nội bộ (Internal Audit).
-Mục tiêu: Máy chủ có tên mã "Meow".
+**Mục tiêu:** Máy chủ có tên mã "Meow".
 
 **Cốt truyện:** Hãy tưởng tượng bạn là một chuyên gia bảo mật được thuê để kiểm tra mạng nội bộ của một công ty vận tải cũ. 
 

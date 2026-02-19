@@ -58,6 +58,8 @@ Okay tới đây chúng ta đã dễ dàng có đáp án cho Task 6 rồi!
 
 Ở đây, dễ dàng các bạn đọc flag khi loanh quanh ở `WorkShares` với mấy lệnh cơ bản như cd, ls và get!! 
 
+### Extend
+
 OKay tới đây mà dừng lại thì quá chán, tôi thử quét qua 1000 port và phát hiện ra ngoài 445 thì còn có port khác đang sống, tôi sẽ thử tìm hiểu thêm về chúng!!
 
 ```sh

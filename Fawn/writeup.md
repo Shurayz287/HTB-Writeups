@@ -36,6 +36,8 @@ Giờ chúng ta đã kết nối được với server, nếu chưa quá rõ v�
 
 Now we play with the FTP server!!  Bạn có thể dùng `get` command và kéo file từ server về local, từ đó lấy flag, nhưng như vậy thì quá buồn chán, chúng ta thử lòng vòng quanh server xem sao!!! 
 
+
+
 Lòng vòng trên server 1 hồi, tôi không tìm được gì quá hay ho!!! Tôi quyết định đổi hướng!!!
 
 Tôi có tìm kiếm 1 vòng về `vsftpd 3.0.3 vulnerabilities` và thấy 1 code DoS trên exploit database, tôi vào thử và config lại code, chỉnh xuống chỉ 5 thread để đảm bảo an toàn, lưu ý là cho dù bạn join HTB Labs VIP+ với 1 machine riêng cũng không nên thử tạo quá nheieuf request 1 lúc, điều này có ảnh hưởng trực tiếp tới server HTB và có thể bị coi là cố tình tấn công!!! Okay tôi thử với 5 request bằng code python và sau đó vào lại ftp của server thì nhận được thông báo `421 There are too many connections from your internet address.
