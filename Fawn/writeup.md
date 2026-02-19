@@ -42,4 +42,7 @@ Tôi có tìm kiếm 1 vòng về `vsftpd 3.0.3 vulnerabilities` và thấy 1 co
 ` tức đã DoS thành công!!! Lưu ý đây chỉ là các test vui vẻ, và tôi có Labs VIP+ nên machine này chỉ có mỗi mình tôi vào, chính vì vậy nên tôi không gây ảnh hưởng tới ai và tôi cũng chỉ giới hạn 5 request nhỏ để xem thử!! Còn trong bài lab mình sẽ config và có mẹo làm thử mà ko cần code python để DoS nhé! 
 
 
+### Summary
+
+Qua Lab Fawn này tôi biết thêm về FTP server, đọc kết quả *Scan* và phân tích, tìm tư liệu trên mạng để thử, học tư duy thứ sai, tìm hiểu thêm về lỗ hổng khi biết version, biết cách thức chính xác khi DoS 1 server!! 
 
